@@ -1,0 +1,1 @@
+# rails-programmer-profile-partials-seiji-test-batch-001
